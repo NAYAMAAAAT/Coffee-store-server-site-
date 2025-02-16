@@ -9,7 +9,7 @@ Coffee Site is a full-stack MERN application that allows users to manage their c
 - User authentication with Firebase
 - Add new coffee entries
 - Update existing coffee details
-- Delete coffee entries
+- Delete coffee entries.
 - Responsive design for mobile and desktop
 
 ## Technologies Used
